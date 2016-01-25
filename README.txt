@@ -19,4 +19,3 @@ The code is for Reversi game logic, it contains 3 methods
 
 In case of any queries please contact me
 email :- shahks@usc.edu
-Phone # :- (323)347-8514
