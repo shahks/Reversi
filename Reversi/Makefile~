@@ -1,0 +1,10 @@
+agent: agent.class
+	
+agent.class: agent.java
+	javac agent.java
+
+run: agent.class
+	java agent
+
+clean:
+	rm -f *.o agent
